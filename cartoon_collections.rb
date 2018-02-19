@@ -13,7 +13,7 @@ end
 def long_planeteer_calls(calls)# code an argument here
   # Your code here
   calls.any? { |word|
-    word.length >= 4
+    word.length > 4
   }
 
 end
