@@ -23,6 +23,7 @@ def find_the_cheese(ingredients)# code an argument here
   cheese_types.each {|x|
     if ingredients.include?(x) = true
       return x
+    end
   }
 
 
