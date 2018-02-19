@@ -25,8 +25,5 @@ def find_the_cheese(ingredients)# code an argument here
       return x
     else
   }
-  return nil
-
-
 
 end
